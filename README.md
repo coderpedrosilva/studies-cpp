@@ -12,3 +12,5 @@ programação orientada a objetos (POO), herança, polimorfismo, entre outros.
 Cada arquivo corresponde a uma lição específica ou exercício, demonstrando minha compreensão e 
 aplicação dos conceitos abordados. Esses arquivos não apenas servem como referência pessoal, 
 mas também podem fornecer insights e exemplos para outras pessoas interessadas em aprender C++.
+<br><br>
+Para adquirir o curso: https://www.udemy.com/course/cmaismaisbasico/
