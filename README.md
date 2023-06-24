@@ -1,7 +1,7 @@
 # studies-cpp
 
-Este repositório contém os arquivos e projetos relacionados à minha conclusão do 
-"Curso Aprendendo programação básica e avançada com Linguagem C++" do Professor Marcos Pacheco. 
+Este repositório contém os arquivos relacionados à minha conclusão do 
+curso "Aprendendo programação básica e avançada com Linguagem C++" do Professor Marcos Pacheco. 
 O curso proporcionou uma compreensão abrangente da programação em C++, abordando conceitos básicos e avançados.
 <br><br>
 Os arquivos neste repositório servem como um registro da minha jornada de aprendizado, mostrando a 
