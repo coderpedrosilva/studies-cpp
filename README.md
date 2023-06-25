@@ -5,7 +5,7 @@ curso "Aprendendo programação básica e avançada com Linguagem C++" do Profes
 O curso proporcionou uma compreensão abrangente da programação em C++, abordando conceitos básicos e avançados.
 <br><br>
 Os arquivos neste repositório servem como um registro da minha jornada de aprendizado, mostrando a 
-implementação prática dos conceitos ensinados no curso. Eles representam meu progresso e crescimento 
+implementação prática dos conceitos ensinados no curso e além, como a pesquisa sobre polimorfismo. Eles representam meu progresso e crescimento 
 à medida que explorei diversos tópicos, incluindo tipos de dados, estruturas de dados, funções, 
 programação orientada a objetos (POO), herança, polimorfismo, entre outros.
 <br><br>
